@@ -1,0 +1,1 @@
+<snippet><content><![CDATA[<button type="button" class="btn btn-success btn-sm undefined undefined">${1:button}</button>]]></content><tabTrigger>btn-success-sm-disabled-</tabTrigger></snippet>

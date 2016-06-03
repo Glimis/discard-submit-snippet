@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="btn<%this.color%><%this.size%><%this.disabled%><%this.block%>">${1:button}</button>
+]]></content>
+	<tabTrigger>btn<%this.colorTr%><%this.sizeTr%><%this.disabledTr%><%this.blockTr%></tabTrigger>
+</snippet>

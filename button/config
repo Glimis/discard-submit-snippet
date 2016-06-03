@@ -1,0 +1,21 @@
+{
+	"color":[{
+		"code":"btn-primary",
+		"trigger":"primary"
+	},{
+		"code":"btn-success",
+		"trigger":"success"
+	}],
+	"size":[{
+		"code":"btn-sm",
+		"trigger":"sm"
+	},{
+		"code":"btn-xs",
+		"trigger":"xs"
+	}],
+	"block":["",{
+		"code":"btn-block",
+		"trigger":"block"
+	}],
+	"disabled":["","disabled"]
+}
